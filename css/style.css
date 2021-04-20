@@ -1,0 +1,22 @@
+body {
+    font-family: 'simsun';
+    color: antiquewhite;
+}
+
+.header {
+    text-align: center;
+    color: #000000;
+}
+
+.menu {
+    text-align: center;
+}
+
+.footer {
+    color: black;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
