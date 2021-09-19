@@ -3,13 +3,11 @@ layout: layouts/home.njk
 ---
 
 <div class="illo-container">
-  <img src="https://cdn.glitch.com/cad20829-cd7f-405a-95e8-5e17b206a304%2Fillustration.svg?v=1618198438357" class="illustration" style="align: right" alt="Eleventy!">
+  <img src="https://wiki.ton-g.cn/resources/assets/h_logo.png" class="illustration" style="align: right" alt="Eleventy!">
 </div>
 
 # 通通日常
 ### 我的个人日志！
-Welcome to the Glitch [Eleventy](https://www.11ty.dev/) starter, where you can create a blog or landing page that generates a static site.
+嘿嘿嘿，这里我的个人小小网站，有点简陋。。。
 
-Each of the initial blog posts has special tips to help you get the most out of your new site–work through them all, learning how to add posts and customize how your site builds along the way. Once you've mastered the basics, you can delete all these posts and continue writing your own!
-
-### Posts
+### ✨小小牢骚
