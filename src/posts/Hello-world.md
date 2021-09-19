@@ -1,6 +1,7 @@
 ---
 title: 开始之前。。。
 date: 2021-08-15 19:47:32
+description: 建站后发的第一篇小小文章。
 layout: layouts/post.njk
 ---
 嘿嘿，我还是用 [Hexo](https://hexo.io/) 来创建了ton-g.cn的首页，这是这个网站的第一篇日志！下面给大家介绍一下！🤗
